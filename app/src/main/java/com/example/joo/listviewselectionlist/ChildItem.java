@@ -3,7 +3,7 @@ package com.example.joo.listviewselectionlist;
 /**
  * Created by Joo on 2016-01-22.
  */
-public class ChildItem implements Items {
+public class ChildItem {
 
     String childName;
 

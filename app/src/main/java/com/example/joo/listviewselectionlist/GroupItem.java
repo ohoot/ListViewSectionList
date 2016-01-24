@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Created by Joo on 2016-01-22.
  */
-public class GroupItem implements Items {
+public class GroupItem {
     String groupName;
 
     List<ChildItem> children = new ArrayList<ChildItem>();
